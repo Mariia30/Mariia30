@@ -5,13 +5,13 @@
 - 🌱 My <a href="">CV(PDF)</a> <br>
 - 🌱 My graduation <a href="">diplomas</a> <br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/mariia-levkovska/">Linkedin</a> <br>
-- 
+
  <h1 align="center">🔷 I explore tools: <br></h1>
 <div align="center">
-<img alt="MySQL Workbench" width="73px" src="https://user-images.githubusercontent.com/22035682/165826658-262f698b-1bc2-4ebd-bccc-0fd90c684281.png" />
-<img alt="Git" width="73px" src="https://user-images.githubusercontent.com/22035682/165826974-2d622bc0-c5e5-4b53-b2e7-4cd5a5ae676f.png" />
-<img alt="charles" width="73px"src="https://user-images.githubusercontent.com/22035682/165826809-570b337e-672e-4b64-a05f-63a0f124bae4.jpeg" />
-<img alt="postman" width="73px" src="https://user-images.githubusercontent.com/22035682/165825734-adc9850b-ffeb-4317-900e-ea04fb0e960a.png" />
-<img alt="vsc" width="73px" src="https://user-images.githubusercontent.com/22035682/165827407-486ab458-4f7f-4b15-bb6d-8068a11d8521.jpeg" />
-<img alt="jira" width="73px" src="https://user-images.githubusercontent.com/22035682/165827700-20f98f03-b00d-400c-ba61-48a402ef1f1b.jpeg" />
+<img alt="MySQL Workbench" height="75px" src="https://user-images.githubusercontent.com/22035682/165832548-2ed55e69-4c99-401c-825b-c4f2c69c4d4b.png" />
+<img alt="Git" height="75px" src="https://user-images.githubusercontent.com/22035682/165832234-c181f4aa-8c07-4c09-b357-989ae71deda2.png" />
+<img alt="charles" height="80px"  src="https://user-images.githubusercontent.com/22035682/165832039-e1fc0c69-0731-47e0-8ca2-394d762ac44b.png" />
+<img alt="postman" height="75px"  src="https://user-images.githubusercontent.com/22035682/165832584-8a7093e1-37bb-42c4-8908-9f3ecadaadb0.png" />
+<img alt="vsc" height="75px"  src="https://user-images.githubusercontent.com/22035682/165833460-d7da6145-47c9-4d50-b0f9-ade1b649db71.png" />
+<img alt="jira" height="75px"  src="https://user-images.githubusercontent.com/22035682/165833198-d2882739-3e8e-4419-a3ed-0ce3b0004e41.png" />
 </div>
