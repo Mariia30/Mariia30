@@ -10,6 +10,8 @@
 <div align="center">
 <img alt="MySQL Workbench" width="73px" src="https://user-images.githubusercontent.com/22035682/165826658-262f698b-1bc2-4ebd-bccc-0fd90c684281.png" />
 <img alt="Git" width="73px" src="https://user-images.githubusercontent.com/22035682/165826974-2d622bc0-c5e5-4b53-b2e7-4cd5a5ae676f.png" />
-<img alt="charles" width="73px" border-radius="20px" src="https://user-images.githubusercontent.com/22035682/165826809-570b337e-672e-4b64-a05f-63a0f124bae4.jpeg" />
+<img alt="charles" width="73px"src="https://user-images.githubusercontent.com/22035682/165826809-570b337e-672e-4b64-a05f-63a0f124bae4.jpeg" />
 <img alt="postman" width="73px" src="https://user-images.githubusercontent.com/22035682/165825734-adc9850b-ffeb-4317-900e-ea04fb0e960a.png" />
+<img alt="vsc" width="73px" src="https://user-images.githubusercontent.com/22035682/165827407-486ab458-4f7f-4b15-bb6d-8068a11d8521.jpeg" />
+<img alt="jira" width="73px" src="https://user-images.githubusercontent.com/22035682/165827700-20f98f03-b00d-400c-ba61-48a402ef1f1b.jpeg" />
 </div>
