@@ -15,3 +15,9 @@
 <img alt="vsc" height="75px"  src="https://user-images.githubusercontent.com/22035682/165833460-d7da6145-47c9-4d50-b0f9-ade1b649db71.png" />
 <img alt="jira" height="75px"  src="https://user-images.githubusercontent.com/22035682/165833198-d2882739-3e8e-4419-a3ed-0ce3b0004e41.png" />
 </div>
+<br>
+
+<p align="center">
+<a href="https://github.com/Mariia30/github-readme-stats">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariia30&layout=compact" /></a>
+</p>
