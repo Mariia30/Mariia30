@@ -3,7 +3,7 @@
 - 🌱 QA Course <br>
 - 🌱 My <a href="https://github.com/Mariia30/CV">CV(HTML/CSS)</a> <br>
 - 🌱 My <a href="">CV(PDF)</a> <br>
-- 🌱 My graduation <a href="">diplomas</a> <br>
+- 🌱 My graduation <a href="https://drive.google.com/drive/folders/10Hg6fJYMYIhniY496z-q46Xd9s3Q9oPw?usp=sharing">sertificates</a> <br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/mariia-levkovska/">Linkedin</a> <br>
 
  <h1 align="center">🔷 I explore tools: <br></h1>
@@ -14,6 +14,7 @@
 <img alt="postman" height="75px"  src="https://user-images.githubusercontent.com/22035682/165832584-8a7093e1-37bb-42c4-8908-9f3ecadaadb0.png" />
 <img alt="vsc" height="75px"  src="https://user-images.githubusercontent.com/22035682/165833460-d7da6145-47c9-4d50-b0f9-ade1b649db71.png" />
 <img alt="jira" height="75px"  src="https://user-images.githubusercontent.com/22035682/165833198-d2882739-3e8e-4419-a3ed-0ce3b0004e41.png" />
+<img alt="android studio" height="75px" src="https://user-images.githubusercontent.com/22035682/167261961-2f8bf384-9ff3-4f20-a252-068fb93a0950.png" />
 </div>
 <br>
 
