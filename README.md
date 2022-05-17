@@ -1,7 +1,7 @@
 <h1>👋 Welcome To My GitHub Profile!</h1>
 👋 Hi, I’m Mariia Levkovska. Welcome to my GitHub!<br>
-- 🌱 QA Course <br>
-- 🌱 My <a href="https://github.com/Mariia30/CV-HTML-CSS-_1">CV(HTML/CSS)</a> <br>
+- 🌱 Hillel's QA Course <br>
+- 🌱 My <a href="https://levkovska.netlify.app/">CV(HTML/CSS)</a> <br>
 - 🌱 My <a href="https://drive.google.com/file/d/11Og9pO4wEE25oTBpZEss7859gh3UNiSP/view?usp=sharing">CV(PDF)</a> <br>
 - 🌱 My <a href="https://drive.google.com/drive/folders/10Hg6fJYMYIhniY496z-q46Xd9s3Q9oPw?usp=sharing">sertificates</a> <br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/mariia-levkovska/">Linkedin</a> <br>
