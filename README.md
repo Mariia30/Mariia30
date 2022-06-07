@@ -2,7 +2,7 @@
 👋 Hi, I’m Mariia Levkovska. Welcome to my GitHub!<br>
 - 🌱 <a href="https://certificate.ithillel.ua/ru/view/23137477">Hillel's QA Course</a> <br>
 - 🌱 My <a href="https://levkovska.netlify.app/">CV(HTML/CSS)</a> <br>
-- 🌱 My <a href="https://drive.google.com/file/d/11Og9pO4wEE25oTBpZEss7859gh3UNiSP/view?usp=sharing">CV(PDF)</a> <br>
+- 🌱 My <a href="https://drive.google.com/file/d/1-yIeEOlT92HYFnGH8XjV1RoJZXdLjnK-/view?usp=sharing">CV(PDF)</a> <br>
 - 🌱 My <a href="https://drive.google.com/drive/folders/10Hg6fJYMYIhniY496z-q46Xd9s3Q9oPw?usp=sharing">sertificates</a> <br>
 - 📫 How to reach me <a href="https://www.linkedin.com/in/mariia-levkovska/">Linkedin</a> <br>
 
